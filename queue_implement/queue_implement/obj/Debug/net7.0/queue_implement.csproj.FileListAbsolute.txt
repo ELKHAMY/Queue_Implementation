@@ -1,0 +1,15 @@
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\bin\Debug\net7.0\queue_implement.exe
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\bin\Debug\net7.0\queue_implement.deps.json
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\bin\Debug\net7.0\queue_implement.runtimeconfig.json
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\bin\Debug\net7.0\queue_implement.dll
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\bin\Debug\net7.0\queue_implement.pdb
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.csproj.AssemblyReference.cache
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.AssemblyInfoInputs.cache
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.AssemblyInfo.cs
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.csproj.CoreCompileInputs.cache
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.dll
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\refint\queue_implement.dll
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.pdb
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\queue_implement.genruntimeconfig.cache
+C:\Users\jmalm\source\repos\queue_implement\queue_implement\obj\Debug\net7.0\ref\queue_implement.dll
